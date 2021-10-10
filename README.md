@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srrasel
+- 👋 I am a WordPress Full Stack Developer and Frontend Developer, I love building Web Apps and I am continuously improving my skillsets
 - 👀 I’m interested in website design and development
 - 🌱 I’m currently learning javascript,rect and node JS
 - 💞️ I’m looking to collaborate on Php
